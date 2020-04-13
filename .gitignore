@@ -1,0 +1,7 @@
+target/
+dd-log/
+
+*.iml
+.idea
+.idea/*
+.DS_Store
